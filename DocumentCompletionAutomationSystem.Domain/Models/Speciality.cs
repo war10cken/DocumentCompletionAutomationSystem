@@ -1,4 +1,4 @@
-﻿namespace DocumentCompletionAutomationSystem.Domain.Models
+﻿namespace AutomatingDocumentFilling.Domain.Models
 {
     public class Speciality : DomainObject
     {

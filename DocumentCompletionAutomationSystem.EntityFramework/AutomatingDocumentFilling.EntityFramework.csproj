@@ -14,7 +14,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\DocumentCompletionAutomationSystem.Domain\DocumentCompletionAutomationSystem.Domain.csproj" />
+      <ProjectReference Include="..\DocumentCompletionAutomationSystem.Domain\AutomatingDocumentFilling.Domain.csproj" />
     </ItemGroup>
 
 </Project>
